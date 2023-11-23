@@ -5,6 +5,7 @@
 ![image](https://github.com/LEE-hyeon0771/Kaggle-competition_Binary-Prediction-of-Smoker-Status-using-Bio-Signals/assets/84756586/643703bf-2274-4332-997b-8ba3dd4972f1)
 
 ## Result
+52th(Top 3%)
 
 ## Tech Stack
 | division        | stack                                                                                                                                                                                                                                                                                                       |
